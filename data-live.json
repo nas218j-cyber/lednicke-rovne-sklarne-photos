@@ -482,6 +482,13 @@
       "cat": "videa-ai",
       "dur": "0:10",
       "sub": "1maj"
+    },
+    {
+      "file": "videos-ai/historicke_2.mp4",
+      "title": "Historické foto — oživená fotka 2",
+      "cat": "videa-ai",
+      "dur": "0:08",
+      "sub": "historicke-foto"
     }
   ],
   "VIDEOAI_CATS": [
