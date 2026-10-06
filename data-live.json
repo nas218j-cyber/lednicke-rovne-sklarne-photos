@@ -489,6 +489,55 @@
       "cat": "videa-ai",
       "dur": "0:08",
       "sub": "historicke-foto"
+    },
+    {
+      "file": "videos-ai/vyroba_1.mp4",
+      "title": "Výroba — oživená fotka 4",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "vyroba"
+    },
+    {
+      "file": "videos-ai/v_roba_2.mp4",
+      "title": "Výroba — oživená fotka 5",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "vyroba"
+    },
+    {
+      "file": "videos-ai/pren__anie_p_niev.mp4",
+      "title": "Výroba — oživená fotka 6",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "vyroba"
+    },
+    {
+      "file": "videos-ai/sklaren_1.mp4",
+      "title": "Historické foto — oživená fotka 3",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "historicke-foto"
+    },
+    {
+      "file": "videos-ai/sklaren_2.mp4",
+      "title": "Historické foto — oživená fotka 4",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "historicke-foto"
+    },
+    {
+      "file": "videos-ai/fabrika_1.mp4",
+      "title": "Historické foto — oživená fotka 5",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "historicke-foto"
+    },
+    {
+      "file": "videos-ai/1_m_j_12.mp4",
+      "title": "1. máj — AI video 12",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "1maj"
     }
   ],
   "VIDEOAI_CATS": [
