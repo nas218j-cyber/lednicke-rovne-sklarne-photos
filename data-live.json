@@ -545,6 +545,20 @@
       "cat": "videa-ai",
       "dur": "0:08",
       "sub": "zamestnanci"
+    },
+    {
+      "file": "videos-ai/maj_13.mp4",
+      "title": "1. máj — AI video 13",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "1maj"
+    },
+    {
+      "file": "videos-ai/vyroba_3.mp4",
+      "title": "Výroba — oživená fotka 7",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "vyroba"
     }
   ],
   "VIDEOAI_CATS": [
