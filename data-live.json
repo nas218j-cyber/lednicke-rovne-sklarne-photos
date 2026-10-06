@@ -559,6 +559,27 @@
       "cat": "videa-ai",
       "dur": "0:10",
       "sub": "vyroba"
+    },
+    {
+      "file": "videos-ai/sklaren_5.mp4",
+      "title": "Historické foto — oživená fotka 6",
+      "cat": "videa-ai",
+      "dur": "0:05",
+      "sub": "historicke-foto"
+    },
+    {
+      "file": "videos-ai/1_maj_14_kolonsky_kopec.mp4",
+      "title": "1. máj — AI video 14",
+      "cat": "videa-ai",
+      "dur": "0:06",
+      "sub": "1maj"
+    },
+    {
+      "file": "videos-ai/1_maj_15_namestie.mp4",
+      "title": "1. máj — AI video 15",
+      "cat": "videa-ai",
+      "dur": "0:06",
+      "sub": "1maj"
     }
   ],
   "VIDEOAI_CATS": [
