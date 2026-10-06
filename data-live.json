@@ -538,6 +538,13 @@
       "cat": "videa-ai",
       "dur": "0:10",
       "sub": "1maj"
+    },
+    {
+      "file": "videos-ai/Holsko.mp4",
+      "title": "Zamestnanci — oživená fotka",
+      "cat": "videa-ai",
+      "dur": "0:08",
+      "sub": "zamestnanci"
     }
   ],
   "VIDEOAI_CATS": [
