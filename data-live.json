@@ -580,6 +580,34 @@
       "cat": "videa-ai",
       "dur": "0:06",
       "sub": "1maj"
+    },
+    {
+      "file": "videos-ai/1maj_15.mp4",
+      "title": "1. máj — AI video 16",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "1maj"
+    },
+    {
+      "file": "videos-ai/brigada_1.mp4",
+      "title": "Brigády — AI video 1",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "brigady"
+    },
+    {
+      "file": "videos-ai/brigada_2.mp4",
+      "title": "Brigády — AI video 2",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "brigady"
+    },
+    {
+      "file": "videos-ai/brigada_3.mp4",
+      "title": "Brigády — AI video 3",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "brigady"
     }
   ],
   "VIDEOAI_CATS": [
