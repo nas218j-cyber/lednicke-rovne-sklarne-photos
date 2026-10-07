@@ -608,6 +608,20 @@
       "cat": "videa-ai",
       "dur": "0:10",
       "sub": "brigady"
+    },
+    {
+      "file": "videos-ai/ludia_1.mp4",
+      "title": "Historické foto — oživená fotka 7",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "historicke-foto"
+    },
+    {
+      "file": "videos-ai/ludia_2.mp4",
+      "title": "Historické foto — oživená fotka 8",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "historicke-foto"
     }
   ],
   "VIDEOAI_CATS": [
