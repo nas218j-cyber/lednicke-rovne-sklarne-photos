@@ -720,6 +720,41 @@
       "cat": "videa-ai",
       "dur": "0:10",
       "sub": "historicke-foto"
+    },
+    {
+      "file": "videos-ai/v_kulturaku.mp4",
+      "title": "Historické foto — oživená fotka 21",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "historicke-foto"
+    },
+    {
+      "file": "videos-ai/stranovsky.mp4",
+      "title": "Historické foto — oživená fotka 22",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "historicke-foto"
+    },
+    {
+      "file": "videos-ai/kulturak_m_15_farebne.mp4",
+      "title": "Historické foto — oživená fotka 23",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "historicke-foto"
+    },
+    {
+      "file": "videos-ai/v_kulturaku_kolegovia.mp4",
+      "title": "Historické foto — oživená fotka 24",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "historicke-foto"
+    },
+    {
+      "file": "videos-ai/Historicke_namestie.mp4",
+      "title": "Historické foto — oživená fotka 25",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "historicke-foto"
     }
   ],
   "VIDEOAI_CATS": [
