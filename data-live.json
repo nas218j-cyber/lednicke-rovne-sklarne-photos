@@ -755,6 +755,20 @@
       "cat": "videa-ai",
       "dur": "0:10",
       "sub": "historicke-foto"
+    },
+    {
+      "file": "videos-ai/vlak_1.mp4",
+      "title": "Historické foto — oživená fotka 26",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "historicke-foto"
+    },
+    {
+      "file": "videos-ai/gulas.mp4",
+      "title": "Historické foto — oživená fotka 27",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "historicke-foto"
     }
   ],
   "VIDEOAI_CATS": [
