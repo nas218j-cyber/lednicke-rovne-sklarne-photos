@@ -769,6 +769,27 @@
       "cat": "videa-ai",
       "dur": "0:10",
       "sub": "historicke-foto"
+    },
+    {
+      "file": "videos-ai/polovnici.mp4",
+      "title": "Historické foto — oživená fotka 28",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "historicke-foto"
+    },
+    {
+      "file": "videos-ai/maly_kastiel.mp4",
+      "title": "Historické foto — oživená fotka 29",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "historicke-foto"
+    },
+    {
+      "file": "videos-ai/komunisticky_zjazd.mp4",
+      "title": "Historické foto — oživená fotka 30",
+      "cat": "videa-ai",
+      "dur": "0:10",
+      "sub": "historicke-foto"
     }
   ],
   "VIDEOAI_CATS": [
